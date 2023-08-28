@@ -1,0 +1,7 @@
+com\registeration\SpringLogin\Service\UserService.class
+com\registeration\SpringLogin\Service\UserServiceImp.class
+com\registeration\SpringLogin\Repository\UserRepo.class
+com\registeration\SpringLogin\Entity\User.class
+com\registeration\SpringLogin\Controller\UserController.class
+com\registeration\SpringLogin\SpringLoginApplication.class
+com\registeration\SpringLogin\Entity\Role.class
